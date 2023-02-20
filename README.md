@@ -1,5 +1,5 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
-<img src="Images/Programming.jpg" width="1000">
+
 
 # Created by Veerendranath
 
@@ -62,5 +62,3 @@ The Project Submission consisted in the filling of a template with all the Git c
 
 [Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
 
-# My Certificate of Completion
-<img src="Images/Data Science.png" width="1000">
