@@ -60,5 +60,5 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
-[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
+[Check My Project Submission](https://github.com/veerendra-mech/Udacity-programming-for-Data-Science/blob/documntation/Project-3%20GitHub/Git%20Commands%20Documentation.pdf).
 
