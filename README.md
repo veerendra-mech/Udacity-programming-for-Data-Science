@@ -1,7 +1,7 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 <img src="Images/Programming.jpg" width="1000">
 
-# Created by Saurav Raghuvanshi
+# Created by Veerendranath
 
 This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 
@@ -15,7 +15,7 @@ For the presentation component, the student had to create four slides, and each 
 
 ### Project Submission
 
-[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project%201/Project%201%20for%20Submission/Saurav%20Raghuvanshi%20SQL%20submission.pdf)
+[Check My Project Submission](https://github.com/veerendra-mech/Udacity-programming-for-Data-Science)
 
 ### Question Sets
 
